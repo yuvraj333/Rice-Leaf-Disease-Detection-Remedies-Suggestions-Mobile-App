@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392741279859",
+    "project_id": "rlddrs-project",
+    "storage_bucket": "rlddrs-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392741279859:android:8de4c774a35914b22fb206",
+        "android_client_info": {
+          "package_name": "com.example.rlddrs_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392741279859-ljv52rjfutnim8ovbuq7i85ht0ul76gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYF4M19jTJOVxc-MXqSIruPokywq5H9vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392741279859-ljv52rjfutnim8ovbuq7i85ht0ul76gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
